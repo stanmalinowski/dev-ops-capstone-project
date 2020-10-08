@@ -15,11 +15,27 @@ Bonus
 
 
 Getting Started
-1. Fork this repository
-2. Create a branch call development
-3. Clone your fork to your workstation
-4. Setup your pipeline
-5. Code your solution
-6. Submit merge request and merge from your development branch to your main branch
-7. Assign the merge request to me. 
+- Fork this repository
+    - [How to Fork a repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
+- Create a branch call development
+    - [How to Create a branch](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository)
+- Clone your fork to your workstation
+  - [Cloning a repo](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+- Setup your pipeline
+    - [Jenkins](https://www.jenkins.io/doc/pipeline/tour/hello-world/)
+    - [TravisCI](https://docs.travis-ci.com/user/languages/python/)
+    - [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions/guides/building-and-testing-python)
+- Code your app
+    - Pick one of these ideas or Choose your own
+        - Tip Calculator
+        - Celcius to Farenheit converter
+        - An about me website
+        - Perimeter Calculator
+        - Password Generator
+- Submit merge request and merge from your development branch to your main branch
+    - My GitHub username is [lamar-frankie](https://github.com/lamar-frankie)
+    - [How to create a merge request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+- Add me as a collaborator and Assign the pull request to me. 
+    - [Adding Collaborators](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)
+    - [Assigning Pull Requests](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/assigning-issues-and-pull-requests-to-other-github-users)
 
